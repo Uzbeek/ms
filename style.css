@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+
+}
+#me {
+    background-color: #b3d4fc;
+    text-align: center;
+}
+#about {
+
+    text-align: left;
+
+}
+
+
+
+
+
+ 
+body
+{
+font-family: "Times New Roman";
+}
+       background-color:aquamarine;
+    }
+ div{
+     width: 1200px;
+     margin: auto;
+ }
+label{
+    color: red;
+    font-family: "Arial Rounded MT Bold";
+}
